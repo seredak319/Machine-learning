@@ -1,5 +1,16 @@
 # Machine-learning MNIST dataset
 
+## Goal
+* Explore Azure Machine Learning Studio
+* Comparison of learning methods
+* Getting to know the basic tools for data analysis in Python
+* Increasing the ability to work in a team
+
+## Authors
+[Krystian Sereda](https://github.com/seredak319)
+
+[Martyna Skowrońska](https://github.com/martynaskowronska)
+
 ## Description
 The project consisted in the classification of handwritten numbers using the MNIST database[1]. MNIST is the base
 containing 70,000 handwritten digit images (10,000 being test data). Every image in the database is a 28x28 square.
@@ -81,6 +92,17 @@ The result contains a graph that allows to choose the best parameter for a given
 </p>
 
 
-<p align="center">
+### Test with our own number
 
+<p align="center">
+<img width="469" alt="image" src="https://user-images.githubusercontent.com/95620581/221407785-788fd6f8-bedc-4b54-ac8e-f1a3eb6f6201.png">
 </p>
+
+### Success :)
+
+<p align="center">
+<img width="325" alt="image" src="https://user-images.githubusercontent.com/95620581/221407812-e964d03f-4f78-4157-ab58-96f507e91caa.png">
+</p>
+
+## Sources
+[1] https://en.wikipedia.org/wiki/MNIST_database
